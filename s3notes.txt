@@ -1,0 +1,4 @@
+https://www.thegeekstuff.com/2019/04/aws-s3-cli-examples/
+
+
+S3 files are not editable  efs files are editable.
